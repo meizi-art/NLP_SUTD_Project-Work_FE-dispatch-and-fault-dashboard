@@ -1,0 +1,6 @@
+{
+  "name": "FieldOps Intelligence",
+  "description": "Mission-critical field service dispatch and FMC operations intelligence system with live SLA telemetry, automated technician matching, and diagnostic dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
